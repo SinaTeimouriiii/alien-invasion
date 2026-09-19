@@ -1,6 +1,6 @@
 # Alien Invasion
 
-A complete 2D space shooter game built with **Pygame**, based on the project from *Python Crash Course* (3rd Edition) by Eric Matthes (Chapters 12–14).
+A complete 2D space shooter game built with **Pygame**
 
 ## Features
 
@@ -56,14 +56,5 @@ Notes
 The images used are simple placeholders. You can replace images/ship.bmp and images/alien.bmp with your own images if you want.
 The game automatically creates a high score that persists during the current session.
 Press Q at any time to quit cleanly.
-
-
-Credits
-Based on the Alien Invasion project from:
-Python Crash Course, 3rd Edition
-
-by Eric Matthes
-
-Published by No Starch Press
 
 Enjoy the game!
